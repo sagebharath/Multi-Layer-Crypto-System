@@ -1,0 +1,6 @@
+streamlit
+pycryptodome
+cryptography
+tinyec
+plotly
+pandas

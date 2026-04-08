@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# Editor/OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local generated data (optional)
+data/temp/
+data/outputs/
+
+# (Optional) if you ever store keys as files
+*.pem
+*.key
